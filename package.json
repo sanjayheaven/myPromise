@@ -1,0 +1,22 @@
+{
+  "name": "du-promise",
+  "version": "1.0.0",
+  "description": "du-promise is a Promise Implementation, based on Promises/A+.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "promises-aplus-tests test/my-adapter"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjayheaven/du-promise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjayheaven/du-promise/issues"
+  },
+  "homepage": "https://github.com/sanjayheaven/du-promise#readme"
+}
