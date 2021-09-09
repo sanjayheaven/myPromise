@@ -5,3 +5,7 @@ du-promise is a Promise Implementation, based on [Promises/A+](https://promisesa
 ## What is Promise/A+?
 
 [Promise/A+](https://promisesaplus.com/)
+
+## Others
+
+Using queueMicrotask

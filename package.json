@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "promises-aplus-tests test/my-adapter"
+    "test": "promises-aplus-tests test/adapter"
   },
   "repository": {
     "type": "git",
