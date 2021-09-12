@@ -173,9 +173,4 @@ function resolvePromise(promise, x, resolve, reject) {
 //   return this.then(undefined, onRejected)
 // }
 
-// Promise.resolve = function () {}
-// Promise.reject = function () {}
-// Promise.all = function () {}
-// Promise.race = function () {}
-
 module.exports = Promise
