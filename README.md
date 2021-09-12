@@ -1,6 +1,6 @@
-# du-promise
+# myPromise
 
-du-promise is a Promise Implementation, based on [Promises/A+](https://promisesaplus.com/).
+myPromise is a Promise Implementation, based on [Promises/A+](https://promisesaplus.com/).
 
 ## What is Promise/A+?
 
